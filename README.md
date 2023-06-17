@@ -1,4 +1,4 @@
-### Hi there 👋 I am Raquib a Jnr. Full-Stack Web Developer
+### Hi there 👋 I am Raquib a Backend Developer specialising in Node.js .
 
 <!--
 **RaqDeku/RaqDeku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
